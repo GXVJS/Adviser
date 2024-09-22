@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Adviser</string>
+    <string name="name1">Топ - 10 популярных языков программирования </string>
+    <string name="txtBTN">Выбрать</string>
+    <string-array name="ball">
+        <item>JavaScript</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>TypeScript</item>
+        <item>C#</item>
+        <item>PHP</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Ruby</item>
+        <item>Golang</item>
+    </string-array>
+
+</resources>
